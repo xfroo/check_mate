@@ -12,12 +12,17 @@ public:
 	
 	void send_String();
 	int change_Turns();
-	std::string check_Piece() const;
-	int check_Valid_Move() const;
-	int check_For_Check() const;
-
+	std::string check_Piece(std::string pose);
+	int check_Valid_Move();
+	int check_For_Check();
+	std::string getMove();
+	std::string getSource();
+	std::string getDest();
 
 private:
+	std::string source;
+	std::string move;
+	std::string dest;
 	std::string piece;
 	std::string places;
 	int turn;

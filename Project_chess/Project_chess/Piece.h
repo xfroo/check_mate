@@ -8,7 +8,7 @@ public:
 	piece(int move);
 	~piece();
 
-	virtual int check_Valid() const;
+	virtual int check_Valid();
 
 
 private:
