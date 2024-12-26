@@ -2,5 +2,6 @@
 
 int King::check_Valid() const
 {
+
     return 0;
 }

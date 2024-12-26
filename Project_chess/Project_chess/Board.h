@@ -3,30 +3,36 @@
 #include <iostream>
 #include "Pipe.h"
 
+
+
+
 class board : public Pipe
 {
 public:
-	board(std::string places,int turn, std::string piece);
+	board(std::string places,int turn, char piece);
 	~board();
 
 	
 	void send_String();
 	int change_Turns();
-	std::string check_Piece(std::string pose);
+	char check_Piece(std::string pose);
 	int check_Valid_Move();
 	int check_For_Check();
 	std::string getMove();
-	std::string getSource();
-	std::string getDest();
+	char getSource();
+	char getDest();
+	void findPiece();
+	
 
 private:
 	std::string source;
 	std::string move;
 	std::string dest;
-	std::string piece;
+	char piece;
 	std::string places;
 	int turn;
 	Pipe pipe_Server;
+	
 	
 	
 };
