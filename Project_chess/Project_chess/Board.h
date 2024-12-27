@@ -2,13 +2,14 @@
 
 #include <iostream>
 #include "Pipe.h"
-
+#include <string>
 
 
 
 class board : public Pipe
 {
 public:
+	board();
 	board(Pipe pipe_Server, std::string move, std::string source, std::string dest, std::string places,int turn, char piece);
 	~board();
 
@@ -25,13 +26,13 @@ public:
 	
 
 private:
-	std::string source;
-	std::string move;
-	std::string dest;
-	char piece;
-	std::string places;
-	int turn;
-	Pipe pipe_Server;
+	std::string _source;
+	std::string _move;
+	std::string _dest;
+	char _piece;
+	std::string _places;
+	int _turn;
+	Pipe _pipe_Server;
 	
 	
 	

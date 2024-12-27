@@ -9,7 +9,7 @@ public:
 	King();
 	~King();
 
-	int check_Valid() override;
+	int check_Valid();
 
 };
 

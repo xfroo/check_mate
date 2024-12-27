@@ -9,6 +9,6 @@ public:
 	Queen();
 	~Queen();
 
-	int check_Valid() const override;
+	int check_Valid();
 
 };

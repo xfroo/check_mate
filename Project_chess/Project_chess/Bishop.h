@@ -9,7 +9,7 @@ public:
 	Bishop();
 	~Bishop();
 
-	int check_Valid() const override;
+	int check_Valid();
 
 };
 

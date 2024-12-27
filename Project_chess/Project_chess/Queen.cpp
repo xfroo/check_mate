@@ -1,6 +1,6 @@
 #include "Queen.h"
 
-int Queen::check_Valid() const
+int Queen::check_Valid()
 {
 	return 0;
 }

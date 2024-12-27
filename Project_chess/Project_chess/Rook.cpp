@@ -4,13 +4,13 @@
 Rook::Rook(std::string rook)
 {
 	rook = nullptr;
-}
+} 
 
 Rook::~Rook()
 {
 }
 
-int Rook::check_Valid(std::string rook) override
+int Rook::check_Valid(std::string rook)
 {
 	return 0;
 }

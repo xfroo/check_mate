@@ -6,12 +6,13 @@
 class piece : board
 {
 public:
+	piece();
 	piece(std::string move);
 	~piece();
 
-	virtual int check_Valid(std::string rook);
+	virtual int check_Valid(std::string move) = 0;
 
 private:
-	std::string move;
+	std::string _move;
 	
 };

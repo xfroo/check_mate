@@ -4,19 +4,10 @@
 
 piece::piece(std::string move)
 {
-	move = nullptr;
+	_move = move;
 }
 
 piece::~piece()
 {
 }
 
-int piece::check_Valid(std::string rook)
-{
-	return 0;
-}
-
-int Rook::check_Valid(std::string rook)
-{
-	return 0;
-}

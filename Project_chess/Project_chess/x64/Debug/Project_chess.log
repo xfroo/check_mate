@@ -1,38 +1,79 @@
 ﻿  Source.cpp
   Bishop.cpp
-/Downloads/drive-download-20241222T201814Z-001/Source.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\Downloads\drive-download-20241222T201814Z-001\Source.cpp': No such file or directory
+\Downloads\drive-download-20241222T201814Z-001\Source.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\Downloads\drive-download-20241222T201814Z-001\Source.cpp': No such file or directory
   (compiling source file '/Downloads/drive-download-20241222T201814Z-001/Source.cpp')
   
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\Bishop.h(12,6): error C3668: 'Bishop::check_Valid': method with override specifier 'override' did not override any base class methods
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bishop.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'Bishop.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
   (compiling source file 'Bishop.cpp')
   
   board.cpp
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'board.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'board.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'board.cpp')
+  
   King.cpp
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\King.h(12,6): error C3668: 'King::check_Valid': method with override specifier 'override' did not override any base class methods
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'King.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'King.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
   (compiling source file 'King.cpp')
   
   Knight.cpp
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\Knight.h(12,6): error C3668: 'Knight::check_Valid': method with override specifier 'override' did not override any base class methods
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Knight.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'Knight.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
   (compiling source file 'Knight.cpp')
   
   Pawn.cpp
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\Pawn.h(12,6): error C3668: 'Pawn::check_Valid': method with override specifier 'override' did not override any base class methods
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Pawn.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'Pawn.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
   (compiling source file 'Pawn.cpp')
   
   piece.cpp
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\piece.cpp(3,12): error C2511: 'int piece::check_Valid(void) const': overloaded member function not found in 'piece'
-      C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\piece.h(5,7):
-      see declaration of 'piece'
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'piece.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'piece.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'piece.cpp')
   
   Queen.cpp
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\Queen.h(12,6): error C3668: 'Queen::check_Valid': method with override specifier 'override' did not override any base class methods
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Queen.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(6,21): error C2504: 'piece': base class undefined
+  (compiling source file 'Queen.cpp')
+  
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
   (compiling source file 'Queen.cpp')
   
   Rook.cpp
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\Rook.h(12,6): error C3668: 'Rook::check_Valid': method with override specifier 'override' did not override any base class methods
+C:\mag\ekro\check_mate\Project_chess\Project_chess\Rook.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Rook.cpp')
   
-  main.cpp
-  stdafx.cpp
   Generating Code...
-C:\Users\Cyber_User\check_mate\check_mate\Project_chess\Project_chess\board.cpp(97,1): warning C4715: 'board::check_Valid_Move': not all control paths return a value

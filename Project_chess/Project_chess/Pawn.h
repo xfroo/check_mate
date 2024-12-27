@@ -9,7 +9,7 @@ public:
 	Pawn();
 	~Pawn();
 
-	int check_Valid() const override;
+	int check_Valid();
 
 };
 
