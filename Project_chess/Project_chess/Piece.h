@@ -1,18 +1,17 @@
 #pragma once
 #include "Board.h"
 #include <iostream>
+#include "Rook.h"
 
-class piece : public board
+class piece : board
 {
 public:
-	piece(int move);
+	piece(std::string move);
 	~piece();
 
-	virtual int check_Valid();
-
+	virtual int check_Valid(std::string rook);
 
 private:
-	int move;
+	std::string move;
 	
-
 };

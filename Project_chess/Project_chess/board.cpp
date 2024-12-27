@@ -9,14 +9,15 @@
 #include "Queen.h"
 #include "Rook.h"
 
-
-
-board::board(std::string places, int turn, char piece)
+board::board(Pipe pipe_Server, std::string move, std::string source, std::string dest, std::string places, int turn, char piece)
 {
+    Pipe* pipe_server = new Pipe;
+    move = nullptr;
+    source = nullptr;
+    dest = nullptr;
     places = "RNBQKBNRPPPPPPPP################################pppppppprnbqkbnr0";
     turn = 0;
     piece;
-    Pipe* pipe_server = new Pipe;
     connect();
 }
 
@@ -30,27 +31,34 @@ void board::send_String()
     sendMessageToGraphics(const_cast<char*>(places.data()));
 }
 
-int board::change_Turns()
+int board::change_Turns() //this func changes the current turn
 {
-        
+    if (turn == 0)
+    {
+        turn = 1;
+    }
+    else if (turn == 1)
+    {
+        turn = 0;
+    }
     return turn;
 }
 
-std::string board::getMove() 
+std::string board::getMove() //this func is sending returning the current wanted move
 {
     move = getMessageFromGraphics();
     return move;
 }
 
-char board::getSource()
+char board::getSource() //this function divieds the string of the move and returning the whatever in the position
 {
     move = getMove();
     source = move.substr(0, 2);
-
+    
     return check_Piece(source);
 }
 
-char board::getDest()
+char board::getDest() //this func takes the second half of the move
 {
     move = getMove();
     dest = move.substr(2, 2);
@@ -58,7 +66,7 @@ char board::getDest()
     return check_Piece(dest);
 }
 
-void board::findPiece()
+void board::findPiece() //this func checks which piece is that
 {
     piece = toupper(piece);
     switch (piece)
@@ -68,7 +76,6 @@ void board::findPiece()
         break;
 
     case 'K':
-        King::check_Valid();
         break;
 
     case 'R':
@@ -89,7 +96,7 @@ void board::findPiece()
     }
 }
 
-char board::check_Piece(std::string pose)
+char board::check_Piece(std::string pose) //this function get
 {
     char letter = pose[0];
     int first = letter - '0';
@@ -118,10 +125,12 @@ int board::check_Valid_Move()
     {
         return 5;
     }
+
     if (destP == '#' || sourceP == '#')
     {
         return 2;
     }
+
     if (turn == 1)
     {
         if (isupper(sourceP))
@@ -129,6 +138,7 @@ int board::check_Valid_Move()
             return 2;
         }
     }
+
     if (turn == 0)
     {
         if (islower(sourceP))
@@ -151,10 +161,12 @@ int board::check_Valid_Move()
             return 3;
         }
     }
+
     if (check_For_Check() != 0)
     {
         return 4;
     }
+
     if (destP == sourceP)
     {
         return 7;

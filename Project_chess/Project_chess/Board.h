@@ -9,7 +9,7 @@
 class board : public Pipe
 {
 public:
-	board(std::string places,int turn, char piece);
+	board(Pipe pipe_Server, std::string move, std::string source, std::string dest, std::string places,int turn, char piece);
 	~board();
 
 	
