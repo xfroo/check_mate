@@ -3,14 +3,13 @@
 #include <iostream>
 #include "Rook.h"
 
-class piece : board
+class piece
 {
 public:
-	piece();
-	piece(std::string move);
-	~piece();
+	piece(std::string _move);
+	virtual ~piece();
 
-	virtual int check_Valid(std::string move) = 0;
+	virtual int check_Valid(std::string _move) = 0;
 
 private:
 	std::string _move;

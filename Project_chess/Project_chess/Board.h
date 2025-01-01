@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include "Pipe.h"
-#include <string>
+
 
 
 
@@ -10,20 +10,20 @@ class board : public Pipe
 {
 public:
 	board();
-	board(Pipe pipe_Server, std::string move, std::string source, std::string dest, std::string places,int turn, char piece);
+	board(Pipe _pipe_Server, std::string _move, std::string _source, std::string _dest, std::string _places,int _turn, char _piece);
 	~board();
 
 	
 	void send_String();
 	int change_Turns();
-	char check_Piece(std::string pose);
-	int check_Valid_Move();
+	char check_Piece(int both);
+	int check_Valid_Move(std::string move);
 	int check_For_Check();
+	int calcPose(std::string pose);
 	std::string getMove();
-	char getSource();
-	char getDest();
+	std::string getSource(std::string move);
+	std::string getDest(std::string move);
 	void findPiece();
-	
 
 private:
 	std::string _source;

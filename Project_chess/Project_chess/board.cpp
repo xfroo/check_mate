@@ -9,15 +9,15 @@
 #include "Queen.h"
 #include "Rook.h"
 
-board::board(Pipe pipe_Server, std::string move, std::string source, std::string dest, std::string places, int turn, char piece)
+board::board(Pipe _pipe_Server, std::string _move, std::string _source, std::string _dest, std::string _places, int _turn, char _piece)
 {
     Pipe* _pipe_server = new Pipe;
-    _move = "";
-    _source = "";
-    _dest = "";
+    _move = nullptr;
+    _source = nullptr;
+    _dest = nullptr;
     _places = "RNBQKBNRPPPPPPPP################################pppppppprnbqkbnr0";
     _turn = 0;
-    _piece = piece;
+    _piece;
     connect();
 }
 
@@ -31,7 +31,7 @@ void board::send_String()
     sendMessageToGraphics(const_cast<char*>(_places.data()));
 }
 
-int board::change_Turns() //this func changes the current turn
+int board::change_Turns() //this func changes the current turn white is zero
 {
     if (_turn == 0)
     {
@@ -44,26 +44,26 @@ int board::change_Turns() //this func changes the current turn
     return _turn;
 }
 
-std::string board::getMove() //this func is sending returning the current wanted move
+std::string board::getMove() //this func is sending re_turning the current wanted move
 {
     _move = getMessageFromGraphics();
     return _move;
 }
 
-char board::getSource() //this function divieds the string of the move and returning the whatever in the position
+std::string board::getSource(std::string move) //this function divieds the string of the move and returning the whatever in the position
 {
-    _move = getMove();
-    _source = _move.substr(0, 2);
+    move = getMove();
+    _source = move.substr(0, 2);
     
-    return check_Piece(_source);
+    return _source;
 }
 
-char board::getDest() //this func takes the second half of the move
+std::string board::getDest(std::string move) //this func takes the second half of the move
 {
-    _move = getMove();
-    _dest = _move.substr(2, 2);
+    move = getMove();
+    _dest = move.substr(2, 2);
 
-    return check_Piece(_dest);
+    return _dest;
 }
 
 void board::findPiece() //this func checks which piece is that
@@ -96,7 +96,7 @@ void board::findPiece() //this func checks which piece is that
     }
 }
 
-char board::check_Piece(std::string pose) //this function gets the position and returns the piece in the place
+int calcPose(std::string pose)
 {
     char letter = pose[0];
     int first = letter - '0';
@@ -105,8 +105,13 @@ char board::check_Piece(std::string pose) //this function gets the position and 
     char number = pose[1];
     int second = number - '0';
     second = second * 8;
-    
+
     int both = first + second;
+    return both;
+}
+
+char board::check_Piece(int both) //this function gets a poistion and returning which piece is there
+{
     if (both > 63)
     {
         return '5';
@@ -116,10 +121,14 @@ char board::check_Piece(std::string pose) //this function gets the position and 
     return _piece;
 }
 
-int board::check_Valid_Move()
+int board::check_Valid_Move(std::string move)
 {
-    char sourceP = getSource();
-    char destP = getDest();
+    
+    std::string sourceS = getSource(move);
+    std::string destS = getDest(move);
+
+    char sourceP = check_Piece(calcPose(sourceS));
+    char destP = check_Piece(calcPose(destS));
 
     if (sourceP == '5' || destP == '5')
     {

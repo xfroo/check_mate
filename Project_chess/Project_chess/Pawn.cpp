@@ -2,7 +2,7 @@
 #include <iostream>
 #include "Board.h"
 
-int Pawn::check_Valid()
+int Pawn::check_Valid() const
 {
     return 0;
 }

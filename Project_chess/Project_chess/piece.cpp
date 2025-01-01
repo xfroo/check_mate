@@ -1,13 +1,16 @@
 #include "piece.h"
-#include "Board.h"
 #include <iostream>
 
-piece::piece(std::string move)
+piece::piece(std::string _move)
 {
-	_move = move;
+	_move = nullptr;
 }
 
 piece::~piece()
 {
 }
 
+int piece::check_Valid(std::string rook) 
+{
+	return 0;
+}
