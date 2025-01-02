@@ -9,6 +9,8 @@ public:
 	Knight();
 	~Knight();
 
-	int check_Valid() const override;
+
+	virtual int check_Valid(std::string move) override;
+	void knightMove(int dest, int source);
 
 };

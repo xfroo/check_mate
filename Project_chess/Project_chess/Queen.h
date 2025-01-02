@@ -6,9 +6,15 @@
 class Queen : public piece
 {
 public:
-	Queen();
+	Queen(std::string _move);
 	~Queen();
 
-	int check_Valid() const override;
-
+	virtual int check_Valid(std::string _move) override;
+	bool checkValidY(std::string move);
+	bool checkValidDw(std::string move);
+	bool checkValidUp(std::string move);
+	void queenMove(int dest, int source);
+	bool checkValidX(std::string move);
+private:
+	std::string _move;
 };

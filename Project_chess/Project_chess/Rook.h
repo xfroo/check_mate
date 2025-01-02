@@ -12,9 +12,10 @@ public:
 	virtual int check_Valid(std::string move) override;
 	bool checkValidX(std::string move);
 	bool checkValidY(std::string move);
+	void rookMove(int dest, int source);
 
 
 private:
-	board board1;
 	std::string _move;
+	
 };

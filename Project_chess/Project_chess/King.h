@@ -6,10 +6,12 @@
 class King : public piece
 {
 public:
-	King();
+	King(std::string _move);
 	~King();
 
-	int check_Valid() const override;
+	virtual int check_Valid(std::string _move) override;
+	void kingMove(int dest, int source);
+	
 
 };
 

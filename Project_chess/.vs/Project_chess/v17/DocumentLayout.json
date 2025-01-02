@@ -1,82 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\mag\\ekro\\check_mate\\Project_chess\\",
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\King.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Knight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Bishop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Pipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Knight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Queen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Rook.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Queen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Rook.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\King.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\piece.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Bishop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\piece.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Pipe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F24E0F4-59B6-4435-A309-3F7D4201B974}|Project_chess\\Project_chess.vcxproj|solutionrelative:Project_chess\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cyber_User\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -92,221 +96,86 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rook.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Rook.h",
-              "RelativeDocumentMoniker": "Project_chess\\Rook.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Rook.h",
-              "RelativeToolTip": "Project_chess\\Rook.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T19:08:31.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rook.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Rook.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\Rook.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Rook.cpp",
-              "RelativeToolTip": "Project_chess\\Rook.cpp",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:29:55.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "piece.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\piece.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\piece.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\piece.cpp",
-              "RelativeToolTip": "Project_chess\\piece.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:29:56.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Pawn.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pawn.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\Pawn.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pawn.cpp",
-              "RelativeToolTip": "Project_chess\\Pawn.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:31:03.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Piece.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Piece.h",
-              "RelativeDocumentMoniker": "Project_chess\\Piece.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Piece.h",
-              "RelativeToolTip": "Project_chess\\Piece.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T19:08:00.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "stdafx.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\stdafx.h",
-              "RelativeDocumentMoniker": "Project_chess\\stdafx.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\stdafx.h",
-              "RelativeToolTip": "Project_chess\\stdafx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-26T20:00:46.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Bishop.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Bishop.h",
-              "RelativeDocumentMoniker": "Project_chess\\Bishop.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Bishop.h",
-              "RelativeToolTip": "Project_chess\\Bishop.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T15:28:50.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Board.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Board.h",
-              "RelativeDocumentMoniker": "Project_chess\\Board.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Board.h",
-              "RelativeToolTip": "Project_chess\\Board.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T19:07:26.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Queen.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Queen.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\Queen.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Queen.cpp",
-              "RelativeToolTip": "Project_chess\\Queen.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:29:54.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "King.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\King.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\King.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\King.cpp",
-              "RelativeToolTip": "Project_chess\\King.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:30:47.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "board.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\board.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\board.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\board.cpp",
-              "RelativeToolTip": "Project_chess\\board.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAmwHMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:30:22.111Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "King.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\King.h",
-              "RelativeDocumentMoniker": "Project_chess\\King.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\King.h",
-              "RelativeToolTip": "Project_chess\\King.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T19:08:41.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Bishop.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Bishop.cpp",
-              "RelativeDocumentMoniker": "Project_chess\\Bishop.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Bishop.cpp",
-              "RelativeToolTip": "Project_chess\\Bishop.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-24T15:30:15.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Queen.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Queen.h",
-              "RelativeDocumentMoniker": "Project_chess\\Queen.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Queen.h",
-              "RelativeToolTip": "Project_chess\\Queen.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T19:08:47.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Knight.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Knight.h",
-              "RelativeDocumentMoniker": "Project_chess\\Knight.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Knight.h",
-              "RelativeToolTip": "Project_chess\\Knight.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-23T19:08:54.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Knight.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Knight.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Knight.cpp",
               "RelativeDocumentMoniker": "Project_chess\\Knight.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Knight.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Knight.cpp",
               "RelativeToolTip": "Project_chess\\Knight.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-24T15:29:56.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Pipe.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pipe.h",
-              "RelativeDocumentMoniker": "Project_chess\\Pipe.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pipe.h",
-              "RelativeToolTip": "Project_chess\\Pipe.h",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T16:01:24.906Z"
+              "DocumentIndex": 1,
+              "Title": "King.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\King.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\King.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\King.cpp",
+              "RelativeToolTip": "Project_chess\\King.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:30:47.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
+              "Title": "Pawn.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pawn.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\Pawn.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pawn.cpp",
+              "RelativeToolTip": "Project_chess\\Pawn.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:31:03.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rook.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Rook.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\Rook.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Rook.cpp",
+              "RelativeToolTip": "Project_chess\\Rook.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:29:55.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pawn.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pawn.h",
+              "RelativeDocumentMoniker": "Project_chess\\Pawn.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pawn.h",
+              "RelativeToolTip": "Project_chess\\Pawn.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T15:28:34.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "board.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\board.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\board.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\board.cpp",
+              "RelativeToolTip": "Project_chess\\board.cpp",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:30:22.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\main.cpp",
               "RelativeDocumentMoniker": "Project_chess\\main.cpp",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\main.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\main.cpp",
               "RelativeToolTip": "Project_chess\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -314,24 +183,170 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Pawn.h",
-              "DocumentMoniker": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pawn.h",
-              "RelativeDocumentMoniker": "Project_chess\\Pawn.h",
-              "ToolTip": "C:\\mag\\ekro\\check_mate\\Project_chess\\Project_chess\\Pawn.h",
-              "RelativeToolTip": "Project_chess\\Pawn.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Bishop.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Bishop.h",
+              "RelativeDocumentMoniker": "Project_chess\\Bishop.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Bishop.h",
+              "RelativeToolTip": "Project_chess\\Bishop.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-24T15:28:34.744Z"
+              "WhenOpened": "2024-12-24T15:28:50.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Knight.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Knight.h",
+              "RelativeDocumentMoniker": "Project_chess\\Knight.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Knight.h",
+              "RelativeToolTip": "Project_chess\\Knight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T19:08:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Queen.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Queen.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\Queen.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Queen.cpp",
+              "RelativeToolTip": "Project_chess\\Queen.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:29:54.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Queen.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Queen.h",
+              "RelativeDocumentMoniker": "Project_chess\\Queen.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Queen.h",
+              "RelativeToolTip": "Project_chess\\Queen.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T19:08:47.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rook.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Rook.h",
+              "RelativeDocumentMoniker": "Project_chess\\Rook.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Rook.h",
+              "RelativeToolTip": "Project_chess\\Rook.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T19:08:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "King.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\King.h",
+              "RelativeDocumentMoniker": "Project_chess\\King.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\King.h",
+              "RelativeToolTip": "Project_chess\\King.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T19:08:41.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "piece.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\piece.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\piece.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\piece.cpp",
+              "RelativeToolTip": "Project_chess\\piece.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:29:56.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bishop.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Bishop.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\Bishop.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Bishop.cpp",
+              "RelativeToolTip": "Project_chess\\Bishop.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-24T15:30:15.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Piece.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Piece.h",
+              "RelativeDocumentMoniker": "Project_chess\\Piece.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Piece.h",
+              "RelativeToolTip": "Project_chess\\Piece.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T19:08:00.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pipe.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pipe.h",
+              "RelativeDocumentMoniker": "Project_chess\\Pipe.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Pipe.h",
+              "RelativeToolTip": "Project_chess\\Pipe.h",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-24T16:01:24.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\stdafx.cpp",
+              "RelativeDocumentMoniker": "Project_chess\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\stdafx.cpp",
+              "RelativeToolTip": "Project_chess\\stdafx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T18:38:36.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Board.h",
+              "RelativeDocumentMoniker": "Project_chess\\Board.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\Board.h",
+              "RelativeToolTip": "Project_chess\\Board.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-23T19:07:26.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\stdafx.h",
+              "RelativeDocumentMoniker": "Project_chess\\stdafx.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\check_mate\\check_mate1\\check_mate\\Project_chess\\Project_chess\\stdafx.h",
+              "RelativeToolTip": "Project_chess\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-26T20:00:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\Cyber_User\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\Users\\Cyber_User\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\drive-download-20241222T201814Z-001\\Source.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-23T19:04:48.857Z"

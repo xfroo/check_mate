@@ -10,8 +10,9 @@ public:
 	virtual ~piece();
 
 	virtual int check_Valid(std::string _move) = 0;
-
+	board board1;
 private:
 	std::string _move;
+	
 	
 };

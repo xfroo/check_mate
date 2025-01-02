@@ -24,13 +24,13 @@ public:
 	std::string getSource(std::string move);
 	std::string getDest(std::string move);
 	void findPiece();
+	std::string _places;
 
 private:
 	std::string _source;
 	std::string _move;
 	std::string _dest;
 	char _piece;
-	std::string _places;
 	int _turn;
 	Pipe _pipe_Server;
 	

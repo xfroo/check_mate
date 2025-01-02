@@ -6,10 +6,15 @@
 class Bishop : public piece
 {
 public:
-	Bishop();
+	Bishop(std::string _move);
 	~Bishop();
 
-	int check_Valid() const override;
-
+	virtual int check_Valid(std::string _move) override;
+	bool checkValidDw(std::string move);
+	bool checkValidUp(std::string move);
+	void bishopMove(int dest, int source);
+private:
+	std::string _move;
+	
 };
 

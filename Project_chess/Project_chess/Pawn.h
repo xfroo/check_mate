@@ -9,7 +9,8 @@ public:
 	Pawn();
 	~Pawn();
 
-	int check_Valid() const override;
+	virtual int check_Valid(std::string _move) override;
+	void pawnMove(int dest, int source);
 
 };
 

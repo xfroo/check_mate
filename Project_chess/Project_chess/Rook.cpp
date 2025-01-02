@@ -5,10 +5,12 @@
 
 Rook::Rook(std::string _move) : piece(_move)
 {
+
 }
 
 Rook::~Rook()
 {
+
 }
 
 int Rook::check_Valid(std::string move)
@@ -52,7 +54,8 @@ bool Rook::checkValidX(std::string move)
 			{
 				if (i == destI)
 				{
-					return true;
+					rookMove(destI, sourceI);
+					return 0;
 				}
 			}
 		}
@@ -62,7 +65,8 @@ bool Rook::checkValidX(std::string move)
 			{
 				if (i == destI)
 				{
-					return true;
+					rookMove(destI, sourceI);
+					return 0;
 				}
 			}
 		}
@@ -87,7 +91,8 @@ bool Rook::checkValidY(std::string move)
 			{
 				if (i == destI)
 				{
-					return true;
+					rookMove(destI, sourceI);
+					return 0;
 				}
 			}
 		}
@@ -97,11 +102,17 @@ bool Rook::checkValidY(std::string move)
 			{
 				if (i == destI)
 				{
-					return true;
+					rookMove(destI,sourceI);
+					return 0;
 				}
 			}
 		}
 	}
 
 	return false;
+}
+
+void Rook::rookMove(int dest,int source)
+{
+	std::swap(board1._places[dest], board1._places[source]);
 }
